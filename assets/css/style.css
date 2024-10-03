@@ -40,11 +40,23 @@ body {
 
 }
 
+.relogio span#horas {
+    font-size: 60px
+}
+
+.relogio span#minutos {
+    font-size: 60px
+}
+
+.relogio span#segundos {
+    font-size: 60px
+}
+
 .relogio span {
     font-weight: bolder;
-    font-size: px;
 }
 
 .relogio span.tempo {
     font-size: 10px;
 }
+
